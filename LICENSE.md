@@ -1,4 +1,4 @@
-# 
+# Elite LocalAI temas. Com integração com banco de dados vetorial e implantação de modelos — otimizado para máximo desempenho e eficiência.
 
 
 
